@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BAA,50:8E5BB7,100:8BCF9B&height=180&section=header&text=Lorena%20Baron&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20Web%20-%20WordPress%20%26%20Elementor%20-%20T%C3%A9cnica%20em%20Desenvolvimento%20de%20Sistemas&descAlignY=62&descSize=17" width="100%"/>
+# 💜 LORENA BARON
+
+### `Desenvolvimento Web` · `WordPress & Elementor` · `Técnica em Desenvolvimento de Sistemas`
 
 <br>
 
 <a href="https://www.linkedin.com/in/lorena-baron/">
-<img src="https://img.shields.io/badge/LinkedIn-6C3BAA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-6C3BAA?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
 <a href="https://github.com/lorenabaron">
-<img src="https://img.shields.io/badge/GitHub-8BCF9B?style=for-the-badge&logo=github&logoColor=2D1B3D"/>
+<img src="https://img.shields.io/badge/GITHUB-8BCF9B?style=for-the-badge&logo=github&logoColor=2D1B3D">
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8E5BB7&center=true&vCenter=true&width=600&lines=Construindo+minha+carreira+em+tecnologia+%E2%9C%A8;Desenvolvimento+Web+com+WordPress+e+Elementor;Aprendendo%2C+criando+e+evoluindo+um+passo+de+cada+vez+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8E5BB7&center=true&vCenter=true&width=650&lines=Construindo+minha+carreira+em+tecnologia+%E2%9C%A8;Desenvolvimento+Web+com+WordPress+e+Elementor;Aprendendo+e+evoluindo+um+passo+de+cada+vez+%F0%9F%8C%B1">
 
 </div>
 
@@ -28,19 +30,17 @@
 
 Sou Lorena, tenho 18 anos.
 
-Atuo como Estagiária de Desenvolvimento Web, trabalhando principalmente com WordPress e Elementor. No dia a dia, contribuo com a criação e atualização de páginas, ajustes de layout e implementação de recursos, além de realizar alterações e melhorias conforme as necessidades dos projetos.
+Atuo como **Estagiária de Desenvolvimento Web**, trabalhando principalmente com **WordPress e Elementor**. No dia a dia, contribuo com a criação e atualização de páginas, ajustes de layout e implementação de recursos, além de realizar alterações e melhorias conforme as necessidades dos projetos.
 
-Sou formada no ensino médio técnico em Análise e Desenvolvimento de Sistemas pela rede estadual de São Paulo. Durante minha formação e experiências profissionais, desenvolvi conhecimentos em HTML, CSS, JavaScript, Python, SQL, Git e GitHub, construindo uma base em programação, banco de dados, desenvolvimento web e versionamento, além do contato com metodologias como Kanban e Scrum.
+Sou formada no ensino médio técnico em **Análise e Desenvolvimento de Sistemas pela rede estadual de São Paulo**. Durante minha formação e experiências profissionais, desenvolvi conhecimentos em **HTML, CSS, JavaScript, Python, SQL, Git e GitHub**, construindo uma base em programação, banco de dados, desenvolvimento web e versionamento, além do contato com metodologias como **Kanban e Scrum**.
 
 Possuo facilidade de aprendizado, boa comunicação e habilidade para trabalhar em equipe. Gosto de estar envolvida em projetos e de aprender por meio de novas experiências. Tenho interesse em conhecer novas ferramentas e tecnologias e em colocar meus conhecimentos em prática.
-
-<br>
 
 ---
 
 <div align="center">
 
-## 💜 O QUE EU FAÇO
+## 💻 O QUE EU FAÇO
 
 </div>
 
@@ -48,7 +48,7 @@ Possuo facilidade de aprendizado, boa comunicação e habilidade para trabalhar 
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Desenvolvimento Web
+### 🌐 Desenvolvimento Web
 
 Atuação no desenvolvimento e manutenção de páginas utilizando principalmente:
 
@@ -66,12 +66,13 @@ Atuação no desenvolvimento e manutenção de páginas utilizando principalment
 
 ### 🌱 Em evolução
 
-Estou continuamente desenvolvendo meus conhecimentos em:
+Continuo desenvolvendo meus conhecimentos em:
 
 * Desenvolvimento Front-End
 * Lógica de programação
 * JavaScript
 * Banco de dados
+* Git e GitHub
 * Tecnologias e ferramentas de desenvolvimento
 
 </td>
@@ -86,28 +87,30 @@ Estou continuamente desenvolvendo meus conhecimentos em:
 
 <br>
 
-### Desenvolvimento Web
+### 💜 Desenvolvimento Web
 
-<img src="https://img.shields.io/badge/WordPress-6C3BAA?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elementor-8E5BB7?style=for-the-badge&logo=elementor&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-8BCF9B?style=for-the-badge&logo=html5&logoColor=243127"/>
-<img src="https://img.shields.io/badge/CSS3-6C3BAA?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<br><br>
-
-### Desenvolvimento & Versionamento
-
-<img src="https://img.shields.io/badge/Git-8BCF9B?style=for-the-badge&logo=git&logoColor=243127"/>
-<img src="https://img.shields.io/badge/GitHub-6C3BAA?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-8E5BB7?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-6C3BAA?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/Elementor-8E5BB7?style=for-the-badge&logo=elementor&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-8BCF9B?style=for-the-badge&logo=html5&logoColor=243127">
+<img src="https://img.shields.io/badge/CSS3-6C3BAA?style=for-the-badge&logo=css3&logoColor=white">
 
 <br><br>
 
-### Organização & Design
+### 🌿 Programação & Versionamento
 
-<img src="https://img.shields.io/badge/Canva-6C3BAA?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scrum-8BCF9B?style=for-the-badge&logoColor=243127"/>
-<img src="https://img.shields.io/badge/Kanban-8E5BB7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-8BCF9B?style=for-the-badge&logo=javascript&logoColor=243127">
+<img src="https://img.shields.io/badge/Python-8E5BB7?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-6C3BAA?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-8BCF9B?style=for-the-badge&logo=git&logoColor=243127">
+<img src="https://img.shields.io/badge/GitHub-6C3BAA?style=for-the-badge&logo=github&logoColor=white">
+
+<br><br>
+
+### ✦ Organização
+
+<img src="https://img.shields.io/badge/Scrum-8E5BB7?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kanban-8BCF9B?style=for-the-badge&logoColor=243127">
+<img src="https://img.shields.io/badge/Canva-6C3BAA?style=for-the-badge&logo=canva&logoColor=white">
 
 </div>
 
@@ -137,7 +140,7 @@ Durante minha formação técnica, tive contato com diferentes áreas da tecnolo
 * Redes e Packet Tracer
 * Inglês aplicado à tecnologia
 
-A formação me proporcionou uma visão ampla do desenvolvimento de sistemas e despertou meu interesse em continuar estudando e me aprofundando na área.
+Essa formação me proporcionou uma visão ampla do desenvolvimento de sistemas e uma base para continuar me aprofundando na área de tecnologia.
 
 ---
 
@@ -149,7 +152,7 @@ A formação me proporcionou uma visão ampla do desenvolvimento de sistemas e d
 
 ### Estagiária de Desenvolvimento Web
 
-Atuação com **desenvolvimento e manutenção de sites**, principalmente utilizando WordPress e Elementor.
+Atuação com **desenvolvimento e manutenção de sites**, principalmente utilizando **WordPress e Elementor**.
 
 Entre as atividades realizadas estão:
 
@@ -160,7 +163,7 @@ Entre as atividades realizadas estão:
 * Manutenção e melhorias em sites;
 * Trabalho com diferentes projetos e demandas de clientes.
 
-Essa experiência tem sido uma oportunidade para transformar os conhecimentos adquiridos durante minha formação em situações reais de desenvolvimento.
+Essa experiência tem sido uma oportunidade de transformar os conhecimentos adquiridos durante minha formação em situações reais de desenvolvimento.
 
 ---
 
@@ -170,19 +173,17 @@ Essa experiência tem sido uma oportunidade para transformar os conhecimentos ad
 
 </div>
 
-Atuo como voluntária no Instituto CK, um projeto gratuito de ensino de inglês para crianças.
+Atuo como voluntária no **Instituto CK**, um projeto gratuito de ensino de inglês para crianças.
 
-Iniciei minha trajetória no instituto como aluna em 2022 e, ao longo do tempo, fui assumindo novas responsabilidades: passei a atuar como Class Helper, posteriormente como monitora e, atualmente, também realizo regência de aulas, contribuindo diretamente para o ensino e acompanhamento dos alunos.
+Iniciei minha trajetória no instituto como aluna em **2022** e, ao longo do tempo, fui assumindo novas responsabilidades: passei a atuar como **Class Helper**, posteriormente como **monitora** e, atualmente, também realizo **regência de aulas**, contribuindo diretamente para o ensino e acompanhamento dos alunos.
 
-Essa experiência tem me permitido desenvolver habilidades de comunicação, proatividade, liderança, organização, responsabilidade e trabalho em equipe, além de ampliar minha experiência com educação e ensino de inglês.
-
-<br>
+Essa experiência tem me permitido desenvolver habilidades de **comunicação, proatividade, liderança, organização, responsabilidade e trabalho em equipe**, além de ampliar minha experiência com educação e ensino de inglês.
 
 ---
 
 <div align="center">
 
-## 📊 MEU GITHUB
+## 📊 GITHUB EM NÚMEROS
 
 <br>
 
@@ -192,7 +193,7 @@ Essa experiência tem me permitido desenvolver habilidades de comunicação, pro
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lorenabaron&hide_border=true&background=00000000&ring=6C3BAA&fire=8E5BB7&currStreakLabel=6C3BAA&sideLabels=6C3BAA&dates=777777" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lorenabaron&hide_border=true&background=00000000&ring=6C3BAA&fire=8E5BB7&currStreakLabel=6C3BAA&sideLabels=6C3BAA&dates=777777"/>
 
 </div>
 
@@ -202,17 +203,19 @@ Essa experiência tem me permitido desenvolver habilidades de comunicação, pro
 
 ## 🌱 O QUE ESTOU CONSTRUINDO
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8BCF9B&height=2&section=header" width="70%"/>
-
 <br>
 
 Atualmente estou focada em **crescer profissionalmente na área de tecnologia**, ampliar minha experiência com desenvolvimento e continuar construindo minha base para os próximos passos da minha carreira.
 
 Meu objetivo é transformar cada novo aprendizado em experiência prática.
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1500&color=6C3BAA&center=true&vCenter=true&width=500&lines=Um+passo+de+cada+vez+%F0%9F%8C%B1;Sempre+aprendendo+algo+novo+%E2%9C%A8;Ainda+estou+no+come%C3%A7o+%E2%80%94+e+isso+faz+parte." />
+`LEARN` → `BUILD` → `IMPROVE` → `REPEAT`
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1500&color=6C3BAA&center=true&vCenter=true&width=500&lines=Um+passo+de+cada+vez+%F0%9F%8C%B1;Sempre+aprendendo+algo+novo+%E2%9C%A8;Ainda+estou+no+come%C3%A7o+%E2%80%94+e+isso+faz+parte.">
 
 </div>
 
@@ -225,24 +228,17 @@ Meu objetivo é transformar cada novo aprendizado em experiência prática.
 <br>
 
 <a href="https://www.linkedin.com/in/lorena-baron/">
-<img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-6C3BAA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-6C3BAA?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<br><br>
+ 
 
 <a href="https://github.com/lorenabaron">
-<img src="https://img.shields.io/badge/GitHub-lorenabaron-8BCF9B?style=for-the-badge&logo=github&logoColor=243127"/>
+<img src="https://img.shields.io/badge/GitHub-lorenabaron-8BCF9B?style=for-the-badge&logo=github&logoColor=243127">
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BCF9B,50:8E5BB7,100:6C3BAA&height=120&section=footer" width="100%"/>
-
-</div>
-
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BCF9B,50:8E5BB7,100:6C3BAA&height=120&section=footer" width="100%"/>
+✦ <i>Construindo conhecimento, experiência e novos caminhos na tecnologia.</i> ✦
 
 </div>
