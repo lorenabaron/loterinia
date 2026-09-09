@@ -1,8 +1,6 @@
 <div align="center">
 
-# 💜 LORENA BARON
-
-### `Desenvolvimento Web` · `WordPress & Elementor` · `Técnica em Desenvolvimento de Sistemas`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BAA,50:8E5BB7,100:8BCF9B&height=180&section=header&text=Lorena%20Baron&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20Web%20%7C%20Tecnologia%20%7C%20Criatividade&descAlignY=62&descSize=17" width="100%"/>
 
 <br>
 
