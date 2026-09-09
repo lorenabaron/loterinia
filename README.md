@@ -26,21 +26,15 @@
 
 </div>
 
-Olá! Eu sou a **Lorena Baron**, tenho 18 anos e estou construindo minha trajetória profissional na área de tecnologia.
+Sou Lorena, tenho 18 anos.
 
-Atualmente atuo como **Estagiária de Desenvolvimento Web**, trabalhando principalmente com **WordPress e Elementor**, contribuindo para a criação e atualização de páginas, ajustes de layout e implementação de recursos de acordo com as necessidades dos projetos.
+Atuo como Estagiária de Desenvolvimento Web, trabalhando principalmente com WordPress e Elementor. No dia a dia, contribuo com a criação e atualização de páginas, ajustes de layout e implementação de recursos, além de realizar alterações e melhorias conforme as necessidades dos projetos.
 
-Minha formação começou no ensino médio técnico, onde tive contato com diferentes áreas da tecnologia e desenvolvi uma base em **desenvolvimento de sistemas, lógica de programação, bancos de dados, front-end, back-end, Git/GitHub e metodologias ágeis**.
+Sou formada no ensino médio técnico em Análise e Desenvolvimento de Sistemas pela rede estadual de São Paulo. Durante minha formação e experiências profissionais, desenvolvi conhecimentos em HTML, CSS, JavaScript, Python, SQL, Git e GitHub, construindo uma base em programação, banco de dados, desenvolvimento web e versionamento, além do contato com metodologias como Kanban e Scrum.
 
-Hoje, meu objetivo é continuar evoluindo na área de tecnologia e construir uma carreira sólida em **Engenharia de Software**, sempre buscando aprender novas ferramentas e transformar conhecimento em prática.
+Possuo facilidade de aprendizado, boa comunicação e habilidade para trabalhar em equipe. Gosto de estar envolvida em projetos e de aprender por meio de novas experiências. Tenho interesse em conhecer novas ferramentas e tecnologias e em colocar meus conhecimentos em prática.
 
 <br>
-
-<div align="center">
-
-`tecnologia`  ·  `desenvolvimento`  ·  `aprendizado`  ·  `criatividade`
-
-</div>
 
 ---
 
@@ -62,7 +56,6 @@ Atuação no desenvolvimento e manutenção de páginas utilizando principalment
 - Elementor
 - HTML
 - CSS
-- Git e GitHub
 - Ajustes de layout
 - Implementação de recursos
 - Manutenção e atualização de páginas
@@ -75,13 +68,11 @@ Atuação no desenvolvimento e manutenção de páginas utilizando principalment
 
 Estou continuamente desenvolvendo meus conhecimentos em:
 
-- Engenharia de Software
 - Desenvolvimento Front-End
 - Lógica de programação
 - JavaScript
 - Banco de dados
-- Git e GitHub
-- Tecnologias e ferramentas do ecossistema de desenvolvimento
+- Tecnologias e ferramentas de desenvolvimento
 
 </td>
 </tr>
@@ -179,17 +170,13 @@ Essa experiência tem sido uma oportunidade para transformar os conhecimentos ad
 
 </div>
 
-Além da área profissional e acadêmica, também participo de atividades de **voluntariado**, contribuindo com organização, comunicação, responsabilidade e trabalho em equipe.
+Atuo como voluntária no Instituto CK, um projeto gratuito de ensino de inglês para crianças.
 
-Essas experiências fazem parte da minha formação pessoal e profissional e me ajudam a desenvolver habilidades que também fazem diferença no ambiente de trabalho.
+Iniciei minha trajetória no instituto como aluna em 2022 e, ao longo do tempo, fui assumindo novas responsabilidades: passei a atuar como Class Helper, posteriormente como monitora e, atualmente, também realizo regência de aulas, contribuindo diretamente para o ensino e acompanhamento dos alunos.
+
+Essa experiência tem me permitido desenvolver habilidades de comunicação, proatividade, liderança, organização, responsabilidade e trabalho em equipe, além de ampliar minha experiência com educação e ensino de inglês.
 
 <br>
-
-<div align="center">
-
-🌱 <b>Aprender também acontece quando colocamos o conhecimento a serviço de outras pessoas.</b>
-
-</div>
 
 ---
 
@@ -222,12 +209,6 @@ Essas experiências fazem parte da minha formação pessoal e profissional e me 
 Atualmente estou focada em **crescer profissionalmente na área de tecnologia**, ampliar minha experiência com desenvolvimento e continuar construindo minha base para os próximos passos da minha carreira.
 
 Meu objetivo é transformar cada novo aprendizado em experiência prática.
-
-<br>
-
-### `learn → build → improve → repeat`
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1500&color=6C3BAA&center=true&vCenter=true&width=500&lines=Um+passo+de+cada+vez+%F0%9F%8C%B1;Sempre+aprendendo+algo+novo+%E2%9C%A8;Ainda+estou+no+come%C3%A7o+%E2%80%94+e+isso+faz+parte." />
 
