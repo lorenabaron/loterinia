@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BAA,50:8E5BB7,100:8BCF9B&height=180&section=header&text=Lorena%20Baron&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20Web%20%7C%20WordPress%20%26%20Elementor%20%7C%20T%C3%A9cnica%20em%20Desenvolvimento%20de%20Sistemas&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BAA,50:8E5BB7,100:8BCF9B&height=180&section=header&text=Lorena%20Baron&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20Web%20-%20WordPress%20%26%20Elementor%20-%20T%C3%A9cnica%20em%20Desenvolvimento%20de%20Sistemas&descAlignY=62&descSize=17" width="100%"/>
 
 <br>
 
