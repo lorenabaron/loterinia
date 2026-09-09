@@ -220,7 +220,7 @@ Meu objetivo é transformar cada novo aprendizado em experiência prática.
 <br>
 
 <a href="https://www.linkedin.com/in/lorena-baron/">
-<img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-6C3BAA?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-6C3BAA?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
  
