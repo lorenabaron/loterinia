@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BAA,50:8E5BB7,100:8BCF9B&height=180&section=header&text=Lorena%20Baron&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20Web%20%7C%WordPress & Elementor%20%7C%20Técnica em Desenvolvimento de Sistemas&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BAA,50:8E5BB7,100:8BCF9B&height=180&section=header&text=Lorena%20Baron&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20Web%20%7C%20WordPress%20%26%20Elementor%20%7C%20T%C3%A9cnica%20em%20Desenvolvimento%20de%20Sistemas&descAlignY=62&descSize=17" width="100%"/>
 
 <br>
 
@@ -52,13 +52,13 @@ Possuo facilidade de aprendizado, boa comunicação e habilidade para trabalhar 
 
 Atuação no desenvolvimento e manutenção de páginas utilizando principalmente:
 
-- WordPress
-- Elementor
-- HTML
-- CSS
-- Ajustes de layout
-- Implementação de recursos
-- Manutenção e atualização de páginas
+* WordPress
+* Elementor
+* HTML
+* CSS
+* Ajustes de layout
+* Implementação de recursos
+* Manutenção e atualização de páginas
 
 </td>
 
@@ -68,11 +68,11 @@ Atuação no desenvolvimento e manutenção de páginas utilizando principalment
 
 Estou continuamente desenvolvendo meus conhecimentos em:
 
-- Desenvolvimento Front-End
-- Lógica de programação
-- JavaScript
-- Banco de dados
-- Tecnologias e ferramentas de desenvolvimento
+* Desenvolvimento Front-End
+* Lógica de programação
+* JavaScript
+* Banco de dados
+* Tecnologias e ferramentas de desenvolvimento
 
 </td>
 </tr>
@@ -125,17 +125,17 @@ Estou continuamente desenvolvendo meus conhecimentos em:
 
 Durante minha formação técnica, tive contato com diferentes áreas da tecnologia, incluindo:
 
-- Lógica de programação
-- Python
-- Desenvolvimento Front-End
-- Desenvolvimento Back-End
-- Banco de dados
-- Desenvolvimento mobile
-- Inteligência Artificial
-- Git e GitHub
-- Scrum, Kanban e XP
-- Redes e Packet Tracer
-- Inglês aplicado à tecnologia
+* Lógica de programação
+* Python
+* Desenvolvimento Front-End
+* Desenvolvimento Back-End
+* Banco de dados
+* Desenvolvimento mobile
+* Inteligência Artificial
+* Git e GitHub
+* Scrum, Kanban e XP
+* Redes e Packet Tracer
+* Inglês aplicado à tecnologia
 
 A formação me proporcionou uma visão ampla do desenvolvimento de sistemas e despertou meu interesse em continuar estudando e me aprofundando na área.
 
@@ -153,12 +153,12 @@ Atuação com **desenvolvimento e manutenção de sites**, principalmente utiliz
 
 Entre as atividades realizadas estão:
 
-- Criação e atualização de páginas;
-- Ajustes de layout e estrutura;
-- Implementação de recursos;
-- Alterações conforme as necessidades dos projetos;
-- Manutenção e melhorias em sites;
-- Trabalho com diferentes projetos e demandas de clientes.
+* Criação e atualização de páginas;
+* Ajustes de layout e estrutura;
+* Implementação de recursos;
+* Alterações conforme as necessidades dos projetos;
+* Manutenção e melhorias em sites;
+* Trabalho com diferentes projetos e demandas de clientes.
 
 Essa experiência tem sido uma oportunidade para transformar os conhecimentos adquiridos durante minha formação em situações reais de desenvolvimento.
 
@@ -210,6 +210,8 @@ Atualmente estou focada em **crescer profissionalmente na área de tecnologia**,
 
 Meu objetivo é transformar cada novo aprendizado em experiência prática.
 
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1500&color=6C3BAA&center=true&vCenter=true&width=500&lines=Um+passo+de+cada+vez+%F0%9F%8C%B1;Sempre+aprendendo+algo+novo+%E2%9C%A8;Ainda+estou+no+come%C3%A7o+%E2%80%94+e+isso+faz+parte." />
 
 </div>
@@ -218,7 +220,7 @@ Meu objetivo é transformar cada novo aprendizado em experiência prática.
 
 <div align="center">
 
-## CONTATO
+## 📫 CONTATO
 
 <br>
 
@@ -231,6 +233,13 @@ Meu objetivo é transformar cada novo aprendizado em experiência prática.
 <a href="https://github.com/lorenabaron">
 <img src="https://img.shields.io/badge/GitHub-lorenabaron-8BCF9B?style=for-the-badge&logo=github&logoColor=243127"/>
 </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BCF9B,50:8E5BB7,100:6C3BAA&height=120&section=footer" width="100%"/>
+
+</div>
+
 
 <br><br>
 
