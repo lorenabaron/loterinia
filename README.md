@@ -207,12 +207,6 @@ Atualmente estou focada em **crescer profissionalmente na área de tecnologia**,
 
 Meu objetivo é transformar cada novo aprendizado em experiência prática.
 
-<br><br>
-
-`LEARN` → `BUILD` → `IMPROVE` → `REPEAT`
-
-<br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1500&color=6C3BAA&center=true&vCenter=true&width=500&lines=Um+passo+de+cada+vez+%F0%9F%8C%B1;Sempre+aprendendo+algo+novo+%E2%9C%A8;Ainda+estou+no+come%C3%A7o+%E2%80%94+e+isso+faz+parte.">
 
 </div>
